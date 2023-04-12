@@ -25,11 +25,10 @@ if(!isset($_SESSION["login"]) || $_SESSION["login"] !== true){
         <br> <br>
         <a href="cadastrar.php">Cadastrar livro</a>
         <br> <br>
-        <a href="cadastros.php">Visualizar cadastros</a>
+        <a href="cadastro.php">Visualizar cadastros</a>
         <br> <br>
         <br> <br>
-        <br> <br>
-        <a href="logout.php">Sair da conta</a>
+        <a href="logout.php">Sair</a>
     </p>
 </body>
 </html>
