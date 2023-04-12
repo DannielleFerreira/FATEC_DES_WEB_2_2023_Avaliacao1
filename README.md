@@ -27,27 +27,4 @@ Os três campos ficam a seu critério, a temática temática proposta.
 - Tecnologias: PHP Estruturado.
 
 
-##  Critérios de avaliação
 
-- Entregar todos os quesitos no prazo: 100% da nota.
-
-- Entregar todos os quesitos com atraso aceitável: 80% da nota.
-
-- Entregar todos os quesitos com atraso: 70% da nota.
-
-- Entregar todos os quesitos fora de prazo: 0% da nota.
-
-##  Prazo final
-
-Serão considerados <b>no prazo</b> os projetos publicados o dia 11 de abril até de 2023.
-
-Serão considerados <b>com atraso aceitável</b> os projetos publicados o dia 12 de abril de 2023.
-
-Serão considerados <b>com atraso</b> os projetos publicados o dia 15 de abril até de 2023.
-
-Serão considerados <b>fora do prazo</b> os projetos publicados posteriormente a data do dia 15 de abril de 2023.
-
-##  Considerações Finais
-
-Você pode consultar a documentação oficial, a documentação com o Zeal, os slides e códigos do repositório da nossa sala, e até mesmo conversar com colegas de sala.  
-<b>Mas</b> não é permitido copiar o código sem entender o que fez (popular cola). Ficou combinado que as atividades que foram cola serão zeradas na nota.
