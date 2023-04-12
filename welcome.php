@@ -25,7 +25,7 @@ if(!isset($_SESSION["login"]) || $_SESSION["login"] !== true){
         <br> <br>
         <a href="cadastrar.php">Cadastrar livro</a>
         <br> <br>
-        <a href="listacadastros.php">Visualizar cadastros</a>
+        <a href="cadastros.php">Visualizar cadastros</a>
         <br> <br>
         <br> <br>
         <br> <br>
